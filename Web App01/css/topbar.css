@@ -1,13 +1,15 @@
+
 .foundation-5-top-bar {
-  background-color:#0000ff;
+  background: #333;
+  color: #fefefe;
 }
 
 .foundation-5-top-bar .menu {
-  background-color:#0000ff;
+  background: #333;
 }
 
 .foundation-5-top-bar .menu a {
-  color: #0000ff;
+  color: #fefefe;
 }
 
 .foundation-5-top-bar .is-dropdown-submenu {
@@ -15,17 +17,17 @@
 }
 
 .foundation-5-top-bar .is-dropdown-submenu-item.opens-right a::after {
-  border-color:#0000ff;
+  border-color: transparent transparent transparent #fefefe;
 }
 
 .foundation-5-top-bar .js-drilldown-back > a::before {
-  border-color: #0000ff ;
+  border-color: transparent #fefefe transparent transparent;
 }
 
 .foundation-5-top-bar .is-drilldown-submenu-parent > a::after {
-  border-color: #0000ff;
+  border-color: transparent transparent transparent #fefefe;
 }
 
 .foundation-5-top-bar .dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after {
-  border-color:#0000ff;
+  border-color: #fefefe transparent transparent;
 }
