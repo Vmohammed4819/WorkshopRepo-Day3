@@ -1,15 +1,15 @@
 
 .foundation-5-top-bar {
-  background: #333;
-  color: #fefefe;
+  background:#205;
+  color: ##CD5C5C;
 }
 
 .foundation-5-top-bar .menu {
-  background: #333;
+  background: #205;
 }
 
 .foundation-5-top-bar .menu a {
-  color: #fefefe;
+  color: ##CD5C5C;
 }
 
 .foundation-5-top-bar .is-dropdown-submenu {
@@ -21,13 +21,13 @@
 }
 
 .foundation-5-top-bar .js-drilldown-back > a::before {
-  border-color: transparent #fefefe transparent transparent;
+  border-color: transparent ##CD5C5C transparent transparent;
 }
 
 .foundation-5-top-bar .is-drilldown-submenu-parent > a::after {
-  border-color: transparent transparent transparent #fefefe;
+  border-color: transparent transparent transparent ##CD5C5C;
 }
 
 .foundation-5-top-bar .dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after {
-  border-color: #fefefe transparent transparent;
+  border-color: ##CD5C5C transparent transparent;
 }
