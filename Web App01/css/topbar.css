@@ -1,19 +1,13 @@
-body {
-    background-color: lightblue;
-}
-</style>
-</head>
 .foundation-5-top-bar {
-  background:#255;
-  color: #FF5733;
+  background-color:#0000ff;
 }
 
 .foundation-5-top-bar .menu {
-  background: #255;
+  background-color:#0000ff;
 }
 
 .foundation-5-top-bar .menu a {
-  color: #FF5733;
+  color: #0000ff;
 }
 
 .foundation-5-top-bar .is-dropdown-submenu {
@@ -21,17 +15,17 @@ body {
 }
 
 .foundation-5-top-bar .is-dropdown-submenu-item.opens-right a::after {
-  border-color: transparent transparent transparent #FF5733;
+  border-color:#0000ff;
 }
 
 .foundation-5-top-bar .js-drilldown-back > a::before {
-  border-color: transparent #FF5733 transparent transparent;
+  border-color: #0000ff ;
 }
 
 .foundation-5-top-bar .is-drilldown-submenu-parent > a::after {
-  border-color: transparent transparent transparent #FF5733;
+  border-color: #0000ff;
 }
 
 .foundation-5-top-bar .dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after {
-  border-color:#FF5733 transparent transparent;
+  border-color:#0000ff;
 }
